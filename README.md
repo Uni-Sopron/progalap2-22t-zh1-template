@@ -43,4 +43,5 @@ A fenti metódusok felhasználásával készüljön egy további `show_charts()`
 - Felül egy vízszintes oszlopdiagram ábrázolja, hogy melyik szereplő hány jelenetben szerepel.
 - Alul egy kördiagram mutassa be, hogy a szereplők megszólalásainak számai (a teljes színdarabban) hogyan aránylanak egymáshoz.
 
-Példa: ![charts.png](hamlet/charts.png)
+Példa diagramok megjelenítésére (szín- és méretbeli eltérések lehetnek):
+![charts.png](hamlet/charts.png)
