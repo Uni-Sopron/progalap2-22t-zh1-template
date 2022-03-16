@@ -40,11 +40,13 @@ A `Play`-nek a `scene_count(character)` metódusával lehessen lekérdezni, hogy
 A `Scene`-nek a `speech_count(character)` metódusával pedig azt, hogy a jelenetben hányszor szólal meg egy szereplő.
 
 A fenti metódusok felhasználásával készüljön egy további `show_charts()` metódus a `Play` osztályhoz, amely két egymás feletti diagramon jeleníti meg a statisztikákat:
-- Felül egy vízszintes oszlopdiagram ábrázolja, hogy melyik szereplő hány jelenetben szerepel.
-- Alul egy kördiagram mutassa be, hogy a szereplők megszólalásainak számai (a teljes színdarabban) hogyan aránylanak egymáshoz.
+- A diagram címében jelenjen meg a színdarab szerzője és címe
+- Egy vízszintes oszlopdiagram ábrázolja, hogy melyik szereplő hány jelenetben szerepel.
+- Egy kördiagram mutassa be, hogy a szereplők megszólalásainak számai (a teljes színdarabban) hogyan aránylanak egymáshoz.
 
-Példa diagramok megjelenítésére (szín- és méretbeli eltérések lehetnek):
-![charts.png](hamlet/charts.png)
+Példa diagramok megjelenítésére:
+![charts.png](hamlet-demo/charts.png)
+Nem baj, ha a feliratok egymásra csúsznak, nem a szépség a lényeg.
 
 A ZH során használható weboldalak:
 * Órai kódok repository-ja: https://github.com/Uni-Sopron/progalap1-o21

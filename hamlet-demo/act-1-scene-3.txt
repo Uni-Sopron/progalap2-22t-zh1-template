@@ -1,3 +1,6 @@
+[Enter Laertes and Ophelia, his sister.]
+
+
 LAERTES
 My necessaries are embarked. Farewell.
 And, sister, as the winds give benefit
@@ -196,3 +199,4 @@ Look to 't, I charge you. Come your ways.
 OPHELIA
 I shall obey, my lord.
 [They exit.]
+

@@ -1,3 +1,9 @@
+[Flourish. Enter Claudius, King of Denmark, Gertrude the
+Queen, the Council, as Polonius, and his son Laertes,
+Hamlet, with others, among them Voltemand and
+Cornelius.]
+
+
 KING
 Though yet of Hamlet our dear brother's death
 The memory be green, and that it us befitted
@@ -40,7 +46,7 @@ Of these dilated articles allow.
 [Giving them a paper.]
 Farewell, and let your haste commend your duty.
 
-CORNELIUS
+CORNELIUS/VOLTEMAND
 In that and all things will we show our duty.
 
 KING
@@ -436,3 +442,4 @@ Till then, sit still, my soul. Foul deeds will rise,
 Though all the earth o'erwhelm them, to men's
 eyes.
 [He exits.]
+
